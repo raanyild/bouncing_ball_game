@@ -1,4 +1,5 @@
 # Bouncing ball game
+# Author - Indranil Ray
 
 import sys
 import pygame
